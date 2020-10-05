@@ -9,8 +9,8 @@ Pre-labeled data used to train a Long Short Term Memory neural network written u
 2. https://github.com/apurvamulay/ReCOVery
 
 After scraping the data (n = 10,678), the Tweets are pre-processed with the spaCy module (stopword removal, word-stemming, etc.):
-![lemma_data](./spacy_lemma.png)
+![lemma_data](spacy_lemma.PNG)
 
 The tokenized text is then used to train the LSTM model - achieving an accuracy score of .95l on the validation set.
-![classification_matrix](./class_matrix.png)
+![classification_matrix](class_matrix.PNG)
 
