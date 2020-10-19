@@ -16,7 +16,7 @@ The tokenized text is then used to train the LSTM model - achieving an accuracy 
 
 ![classification_matrix](class_matrix.PNG)
 
-Graph of mentions network:
+To view confirm the importance of disinforation analsysis, I created a graph of the mentions network. We can clearly see that there are "superspreaders" of disinformation. If we can detect disinformation and create networks, we can determine key influencers (nodes) in the networks and implement more effective countermessage targetting. 
 
 ![network_graph](graphfinal.png)
 
