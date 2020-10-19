@@ -16,3 +16,8 @@ The tokenized text is then used to train the LSTM model - achieving an accuracy 
 
 ![classification_matrix](class_matrix.PNG)
 
+Graph of mentions network:
+
+![network_graph](graphfinal.PNG)
+
+
